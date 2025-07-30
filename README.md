@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Computing, Blockchain like things and other similar stuffs.**
 
-- 👨‍💻 All of my projects are available at [https://subham-portfolio/vercel.app](https://subham-portfolio/vercel.app)
+- 👨‍💻 All of my projects are available at [https://subham-portfolio/vercel.app](https://ryoku-portfolio/vercel.app)
 
 - 📫 How to reach me **email: agarwalsubham18072004@gmail.com**
 
