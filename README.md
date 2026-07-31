@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryoku" alt="ryoku" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Cloud Computing, Blockchain like things and other similar stuffs.**
+- 🌱 I’m currently learning **Gen AI, Neural Networks, Deep Learning like things and other similar stuffs.**
 
 - 👨‍💻 All of my projects are available at [https://ryoku-portfolio.vercel.app](https://ryoku-portfolio.vercel.app)
 
