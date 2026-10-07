@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Gen AI, Neural Networks, Deep Learning like things and other similar stuffs.**
 
-- 👨‍💻 All of my projects are available at [https://ryoku-portfolio.vercel.app](https://ryoku-portfolio.vercel.app)
-
 - 📫 How to reach me **email: agarwalsubham18072004@gmail.com**
 
 - ⚡ Fun fact **I can make bugs disappear by simply restarting my PC. Magic? Nope, just experience. 😄**
